@@ -9,8 +9,7 @@
 #include<stdio.h>
 
 int main(int argc, char **argv) {
-
   printf("Sonja Rebarber\n");
-
+  printf("None\n")
   return 0;
 }
